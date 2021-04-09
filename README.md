@@ -1,7 +1,7 @@
 ### Welcome!
 
-- Currently learning: Spring
-- Currently researching: APIs and Bots
+- Currently practicing: Unit Testing (JUnit) & APIs
+- Up next: Unit Testing (Selenium)
 
 [![My github stats:](https://github-readme-stats.vercel.app/api?username=kcollier10&count_private=true&theme=chartreuse-dark&hide=stars)](https://github.com/kcollier10/github-readme-stats)
 
