@@ -1,7 +1,6 @@
 ### Welcome!
 
-- Currently practicing: Unit Testing (JUnit) & APIs
-- Up next: Unit Testing (Selenium)
+- Current courses: JUnit, Selenium, React, Agile, SCRUM
 
 [![My github stats:](https://github-readme-stats.vercel.app/api?username=kcollier10&count_private=true&theme=chartreuse-dark&hide=stars)](https://github.com/kcollier10/github-readme-stats)
 
